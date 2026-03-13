@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 13062
+    "contributions": 13093
   },
   {
     "login": "vfsfitvnm",
@@ -484,6 +484,28 @@
     "contributions": 4
   },
   {
+    "login": "Chandramauli-Arm64",
+    "id": 189079276,
+    "node_id": "U_kgDOC0Ue7A",
+    "avatar_url": "https://avatars.githubusercontent.com/u/189079276?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Chandramauli-Arm64",
+    "html_url": "https://github.com/Chandramauli-Arm64",
+    "followers_url": "https://api.github.com/users/Chandramauli-Arm64/followers",
+    "following_url": "https://api.github.com/users/Chandramauli-Arm64/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Chandramauli-Arm64/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Chandramauli-Arm64/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Chandramauli-Arm64/subscriptions",
+    "organizations_url": "https://api.github.com/users/Chandramauli-Arm64/orgs",
+    "repos_url": "https://api.github.com/users/Chandramauli-Arm64/repos",
+    "events_url": "https://api.github.com/users/Chandramauli-Arm64/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Chandramauli-Arm64/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 3
+  },
+  {
     "login": "sayyid5416",
     "id": 78584556,
     "node_id": "MDQ6VXNlcjc4NTg0NTU2",
@@ -570,28 +592,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 3
-  },
-  {
-    "login": "Chandramauli-Arm64",
-    "id": 189079276,
-    "node_id": "U_kgDOC0Ue7A",
-    "avatar_url": "https://avatars.githubusercontent.com/u/189079276?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/Chandramauli-Arm64",
-    "html_url": "https://github.com/Chandramauli-Arm64",
-    "followers_url": "https://api.github.com/users/Chandramauli-Arm64/followers",
-    "following_url": "https://api.github.com/users/Chandramauli-Arm64/following{/other_user}",
-    "gists_url": "https://api.github.com/users/Chandramauli-Arm64/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/Chandramauli-Arm64/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/Chandramauli-Arm64/subscriptions",
-    "organizations_url": "https://api.github.com/users/Chandramauli-Arm64/orgs",
-    "repos_url": "https://api.github.com/users/Chandramauli-Arm64/repos",
-    "events_url": "https://api.github.com/users/Chandramauli-Arm64/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/Chandramauli-Arm64/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 2
   },
   {
     "login": "bbyeen",
